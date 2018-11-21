@@ -1,0 +1,61 @@
+<resources>
+
+    <string name="title_activity_settings">Настройки</string>
+    
+    <string name="pref_header_general">General</string>
+    <string name="pref_title_rect_in_edge">Блоков в линии</string>
+    <string name="pref_title_round_of_rect">Закругление краев</string>
+    <string name="pref_title_speed">Скорость</string>
+    
+    <string name="pref_key_round_of_rect">round_of_rect</string>
+    <string name="pref_key_rect_in_edge">rect_in_edge</string>
+    <string name="pref_key_speed">speed</string>
+    
+    <string name="pref_default_round_of_rect">10</string>
+    <string name="pref_default_rect_in_edge">4</string>
+    <string name="pref_default_speed">150</string>
+  
+    <string-array name="pref_round_of_rect_titles">
+       <item>Отсутствует</item>
+       <item>Слабое</item>
+        <item>Обычное</item>
+        <item>Сильное</item>
+    </string-array>
+    <string-array name="pref_round_of_rect_values">
+        <item>100</item>
+        <item>15</item>
+        <item>10</item>
+        <item>6</item>
+    </string-array>
+    
+    <string-array name="pref_rect_in_edge_titles">
+       <item>2x2</item>
+       <item>3x3</item>
+        <item>4x4</item>
+        <item>5x5</item>
+         <item>6x6</item>
+        <item>7x7</item>
+    </string-array>
+    <string-array name="pref_rect_in_edge_values">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    
+    <string-array name="pref_speed_titles">
+        <item>Медлеено</item>
+        <item>Средне</item>
+        <item>Быстро</item>
+        <item>Очень быстро</item>
+    </string-array>
+    <string-array name="pref_speed_values">
+        <item>80</item>
+        <item>150</item>
+        <item>200</item>
+        <item>300</item>
+    </string-array>
+    
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="default">
+        <item name="background">#4C3327</item>
+        <item name="rect">#5B493F</item>
+        <item name="block">#C88C14</item>
+        <item name="text">#F2EFE4</item>
+    </item>
+
+</resources>

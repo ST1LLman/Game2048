@@ -1,0 +1,30 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <ListPreference
+        android:defaultValue="@string/pref_default_rect_in_edge"
+        android:entries="@array/pref_rect_in_edge_titles"
+        android:entryValues="@array/pref_rect_in_edge_values"
+        android:key="@string/pref_key_rect_in_edge"
+        android:negativeButtonText="@null"
+        android:positiveButtonText="@null"
+        android:title="@string/pref_title_rect_in_edge" />
+
+	<ListPreference
+        android:defaultValue="@string/pref_default_round_of_rect"
+        android:entries="@array/pref_round_of_rect_titles"
+        android:entryValues="@array/pref_round_of_rect_values"
+        android:key="@string/pref_key_round_of_rect"
+        android:negativeButtonText="@null"
+        android:positiveButtonText="@null"
+        android:title="@string/pref_title_round_of_rect" />
+	
+	<ListPreference
+        android:defaultValue="@string/pref_default_speed"
+        android:entries="@array/pref_speed_titles"
+        android:entryValues="@array/pref_speed_values"
+        android:key="@string/pref_key_speed"
+        android:negativeButtonText="@null"
+        android:positiveButtonText="@null"
+        android:title="@string/pref_title_speed" />
+    
+</PreferenceScreen>

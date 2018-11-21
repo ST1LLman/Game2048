@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.test.MainActivity" >
+
+    <item
+        android:id="@+id/action_BestScore"
+        android:title="@string/title_best_score">
+    </item>
+    <item
+        android:id="@+id/action_Setting"
+        android:title="@string/title_setting">
+    </item>
+    <item
+        android:id="@+id/action_Exit"
+        android:title="@string/title_exit">
+    </item>
+
+</menu>
